@@ -1,0 +1,27 @@
+.page {
+  background-color: #D3D0CB;
+  padding: 5%;
+  font-family: Oswald;
+}
+
+#article_title {
+  font-size: 100px;
+  color: #461220;
+}
+
+#intro {
+  font-size:70px;
+  color:#8C2F39;
+}
+
+.question{
+
+}
+
+.answer{
+
+}
+
+#block_quote {
+
+}
