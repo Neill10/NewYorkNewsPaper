@@ -1,27 +1,39 @@
 .page {
   background-color: #D3D0CB;
   padding: 5%;
-  font-family: Oswald;
 }
 
 #article_title {
+  font-family: Anton;
   font-size: 100px;
   color: #461220;
 }
 
 #intro {
+  font-family: Oswald;
   font-size:70px;
   color:#8C2F39;
 }
 
 .question{
-
+  font-family: Raleway;
+  font-size:70px;
+  margin-bottom: 0;
 }
 
 .answer{
+  margin: 0;
+  font-family: Raleway;
+  color: #4c5760;
+  font-size:70px;
 
 }
 
 #block_quote {
-
+  color:#8C2F39;
+  border-left: solid 10px #839788; 
+  font-family: Oswald;
+  padding: 5%;
+  font-size:70px;
+  margin-left: 15%;
 }
